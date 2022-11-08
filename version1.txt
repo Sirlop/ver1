@@ -1883,30 +1883,3 @@ local function RLDVJ_fake_script() -- Frame.LocalScript
 	wait(0.1)
 end
 coroutine.wrap(RLDVJ_fake_script)()
-
-local function RLDVU_fake_script() -- game.Workspace.LocalScript
-	while ayooo.Active do
-		if Frame.Visible == true or bigchangeshaha.Visible == true or v0lmann21mai14m3lad0mmm.Visible == false or DragUIOpen.Visible == true then
-			u0mn32mal51345()
-			u0mn32mal51345()
-			u0mn32mal51345()
-			u0mn32mal513452()
-			u0mn32mal513452()
-			u0mn32mal513452()
-		end
-		wait(0.1)
-	end
-end
-coroutine.wrap(RLDVU_fake_script)()
-
-while polman12.Archivable == true do
-	if Frame.Visible == true or bigchangeshaha.Visible == true or v0lmann21mai14m3lad0mmm.Visible == false or DragUIOpen.Visible == true then
-		u0mn32mal51345()
-		u0mn32mal51345()
-		u0mn32mal51345()
-		u0mn32mal513452()
-		u0mn32mal513452()
-		u0mn32mal513452()
-	end
-	wait(0.1)
-end
