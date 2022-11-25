@@ -81,7 +81,7 @@
 
 --Instances
 
-local dma652n4114n6m1n43ba64233245768345asdnhobesgw = Instance.new("ScreenGui")
+local ScreenGui = Instance.new("ScreenGui")
 local v0lmann21mai14m3lad0mmm = Instance.new("ImageLabel")
 local w416dsan = Instance.new("TextLabel")
 local l109lam2 = Instance.new("TextLabel")
@@ -149,7 +149,7 @@ local polman12 = Instance.new("Part")
 
 --Locations
 
-dma652n4114n6m1n43ba64233245768345asdnhobesgw.Parent = game.CoreGui
+ScreenGui.Parent = game.CoreGui
 
 --Functions
 
@@ -316,7 +316,7 @@ Sparkles.Parent = game:GetService('Players').LocalPlayer.Character.Head
 
 
 v0lmann21mai14m3lad0mmm.Name = "v0lmann21mai14m3lad0mmm"
-v0lmann21mai14m3lad0mmm.Parent = dma652n4114n6m1n43ba64233245768345asdnhobesgw
+v0lmann21mai14m3lad0mmm.Parent = ScreenGui
 v0lmann21mai14m3lad0mmm.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 v0lmann21mai14m3lad0mmm.BackgroundTransparency = 1.000
 v0lmann21mai14m3lad0mmm.Position = UDim2.new(0.410608232, 0, 0.388888866, 0)
@@ -458,93 +458,66 @@ lcloz0e.MouseButton1Down:Connect(function()
 	ayooo.Active = false
 	wait(0.25)
 	v0lmann21mai14m3lad0mmm.Visible = false
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-		game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-		game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-		game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-		game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-		game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-		game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-		game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-		game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-		game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-		game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-		game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-		game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-		game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-		game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-		game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 end)
@@ -562,7 +535,7 @@ vvberfu09yinhcg.TextColor3 = Color3.fromRGB(255, 255, 255)
 vvberfu09yinhcg.TextSize = 27.000
 
 Frame.Name = "Frame"
-Frame.Parent = dma652n4114n6m1n43ba64233245768345asdnhobesgw
+Frame.Parent = ScreenGui
 Frame.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Frame.BackgroundTransparency = 1.000
 Frame.Position = UDim2.new(0.090889819, 0, 0.560493827, 0)
@@ -627,7 +600,7 @@ forreal.TextSize = 19.000
 forreal.TextXAlignment = Enum.TextXAlignment.Left
 
 DragUIOpen.Name = "DragUIOpen"
-DragUIOpen.Parent = dma652n4114n6m1n43ba64233245768345asdnhobesgw
+DragUIOpen.Parent = ScreenGui
 DragUIOpen.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 DragUIOpen.BackgroundTransparency = 1.000
 DragUIOpen.Size = UDim2.new(0, 123, 0, 45)
@@ -1304,93 +1277,51 @@ quitUI.MouseButton1Down:Connect(function()
 	Sound.SoundId = "rbxassetid://4612384434"
 	Sound.Looped = false
 	Sound:Play()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
-	game.StarterGui.game.CoreGui.dma652n4114n6m1n43ba64233245768345asdnhobesgw:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
+	game.CoreGui.ScreenGui:Destroy()
 
 
 end)
@@ -1448,7 +1379,7 @@ memeui.MouseButton1Down:Connect(function()
 	messagefalse.Text = "TAP"
 	spem.Text = "INSTAGRAM DMS:"
 	forreal_2.Text = "RAPE SERVER:"
-	forreal.Text = "JUSTIN BIEBER:"
+	forreal.Text = "SNOWMAN NIGGA:"
 	AAAANO.Text = "التحكم وحدة"
 	quitUI.Text = "DADDY DONT PLS"
 	TextLabel.Text = "GUI DESIGN (MEME BEST)"
@@ -1567,7 +1498,7 @@ proui.MouseButton1Down:Connect(function()
 end)
 
 bigchangeshaha.Name = "bigchangeshaha"
-bigchangeshaha.Parent = dma652n4114n6m1n43ba64233245768345asdnhobesgw
+bigchangeshaha.Parent = ScreenGui
 bigchangeshaha.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 bigchangeshaha.BackgroundTransparency = 1.000
 bigchangeshaha.Position = UDim2.new(0.401657879, 0, 0.317283958, 0)
@@ -1744,7 +1675,7 @@ DRAMAA.TextWrapped = true
 DRAMAA.TextXAlignment = Enum.TextXAlignment.Left
 
 countdown.Name = "countdown"
-countdown.Parent = dma652n4114n6m1n43ba64233245768345asdnhobesgw
+countdown.Parent = ScreenGui
 countdown.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 countdown.BackgroundTransparency = 1.000
 countdown.Position = UDim2.new(0.443104804, 0, -0.0283950642, 0)
