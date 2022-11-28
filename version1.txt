@@ -423,6 +423,9 @@ polkaman.MouseButton1Down:Connect(function()
 		ayooo.Active = false
 		DRAMAA.Active = true
 		polman12.Archivable = false
+		wait(3)
+		bigchangeshaha.Visible = false
+		Frame.Visible = true
 		polman12:Destroy()
 	else
 		u0mn32mal51345()
