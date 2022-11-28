@@ -319,13 +319,14 @@ v0lmann21mai14m3lad0mmm.Name = "v0lmann21mai14m3lad0mmm"
 v0lmann21mai14m3lad0mmm.Parent = ScreenGui
 v0lmann21mai14m3lad0mmm.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 v0lmann21mai14m3lad0mmm.BackgroundTransparency = 1.000
-v0lmann21mai14m3lad0mmm.Position = UDim2.new(0.410608232, 0, 0.388888866, 0)
+v0lmann21mai14m3lad0mmm.Position = UDim2.new(0.5, 0, 0.532690108, 0)
 v0lmann21mai14m3lad0mmm.Size = UDim2.new(0, 341, 0, 341)
 v0lmann21mai14m3lad0mmm.Image = "rbxassetid://3570695787"
 v0lmann21mai14m3lad0mmm.ImageColor3 = Color3.fromRGB(0, 0, 0)
 v0lmann21mai14m3lad0mmm.ScaleType = Enum.ScaleType.Slice
 v0lmann21mai14m3lad0mmm.SliceCenter = Rect.new(100, 100, 100, 100)
 v0lmann21mai14m3lad0mmm.SliceScale = 0.120
+v0lmann21mai14m3lad0mmm.AnchorPoint = Vector2.new(0.5, 0.5)
 
 polman12.Name = "Part"
 polman12.Parent = workspace
