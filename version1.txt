@@ -327,6 +327,7 @@ v0lmann21mai14m3lad0mmm.ScaleType = Enum.ScaleType.Slice
 v0lmann21mai14m3lad0mmm.SliceCenter = Rect.new(100, 100, 100, 100)
 v0lmann21mai14m3lad0mmm.SliceScale = 0.120
 v0lmann21mai14m3lad0mmm.AnchorPoint = Vector2.new(0.5, 0.5)
+v0lmann21mai14m3lad0mmm.Draggable = true
 
 polman12.Name = "Part"
 polman12.Parent = workspace
