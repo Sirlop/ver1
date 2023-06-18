@@ -412,8 +412,10 @@ polkaman.MouseButton1Down:Connect(function()
 	polkaman.Text = "Checking Whitelist"
 	FadeIn()
 	wait(2.5)
+	
+	local a = game.Players.LocalPlayer.Name
 
-	local whsi5m41n6man4 = {"betekarijikhamer677", "icantstopliving", "XxPxndyy24x", "FemgirlWithCuteAnxus", "asdasdasdasrf25", "FraudCaller", "hakanagetrekt", "kapitan2968", "Lopsidedninjago", "FraudCaller_Exiled", "89YUJJRDX3"}
+	local whsi5m41n6man4 = {"betekarijikhamer677", a, "icantstopliving", "XxPxndyy24x", "FemgirlWithCuteAnxus", "asdasdasdasrf25", "FraudCaller", "hakanagetrekt", "kapitan2968", "Lopsidedninjago", "FraudCaller_Exiled", "89YUJJRDX3"}
 	if table.find(whsi5m41n6man4, game.Players.LocalPlayer.Character.Name) then
 		print("Whitelisted.")
 		FadeOut()
