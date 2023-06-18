@@ -409,14 +409,10 @@ polkaman.MouseButton1Down:Connect(function()
 	wait(2)
 	FadeOut()
 	wait(2.5)
-	polkaman.Text = "Checking Whitelist"
+	polkaman.Text = "Checking Whitelist (removed)"
 	FadeIn()
 	wait(2.5)
-	
-	local a = game.Players.LocalPlayer.Name
 
-	local whsi5m41n6man4 = {"betekarijikhamer677", a, "icantstopliving", "XxPxndyy24x", "FemgirlWithCuteAnxus", "asdasdasdasrf25", "FraudCaller", "hakanagetrekt", "kapitan2968", "Lopsidedninjago", "FraudCaller_Exiled", "89YUJJRDX3"}
-	if table.find(whsi5m41n6man4, game.Players.LocalPlayer.Character.Name) then
 		print("Whitelisted.")
 		FadeOut()
 		v0lmann21mai14m3lad0mmm.Visible = false
@@ -427,24 +423,6 @@ polkaman.MouseButton1Down:Connect(function()
 		polman12.Archivable = false
 		wait(3)
 		polman12:Destroy()
-	else
-		u0mn32mal51345()
-		u0mn32mal513452()
-		while true do
-			print("AAAAAAAAAAAAAAAAAA@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA")
-			print("AAAAAAAAAAAAAAAAAA@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA")
-			print("AAAAAAAAAAAAAAAAAA@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA")
-			print("AAAAAAAAAAAAAAAAAA@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA")
-			print("AAAAAAAAAAAAAAAAAA@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA")
-			print("AAAAAAAAAAAAAAAAAA@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA")
-			print("AAAAAAAAAAAAAAAAAA@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA")
-			game:GetService('Players').LocalPlayer.Character.Humanoid.Health = 0
-			game:GetService('Players').LocalPlayer.Character.Humanoid.Health = 100
-			game:GetService('Players').LocalPlayer.Character.Humanoid.Health = 90
-			game:GetService('Players').LocalPlayer.Character.Humanoid.Health = 69
-			game:GetService('Players').LocalPlayer.Character.Humanoid.Health = 1
-		end
-	end
 end)
 
 lcloz0e.Name = "lcloz0e"
